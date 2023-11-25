@@ -1,6 +1,7 @@
 command=C\:\\sts-4.20.1.RELEASE\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\\jre\\bin\\javadoc.exe
 content_assist_completion_replacement_background=200,200,0
 content_assist_completion_replacement_foreground=200,0,0
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="org.springframework.http.HttpMethod"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="org.springframework.http.HttpMethod"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/></lhs><lhs name\="org.springframework.security.core.GrantedAuthority"><rhs name\="org.springframework.security.core.authority.SimpleGrantedAuthority"/></lhs><lhs name\="org.springframework.security.crypto.password.PasswordEncoder"><rhs name\="org.springframework.security.crypto.password.NoOpPasswordEncoder"/></lhs></history>
 content_assist_number_of_computers=15
 content_assist_parameters_background=52,57,61
 content_assist_parameters_foreground=238,238,238

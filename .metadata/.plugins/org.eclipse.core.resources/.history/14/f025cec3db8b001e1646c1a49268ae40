@@ -1,0 +1,5 @@
+package dio.springsecurity.init;
+
+public class StartApplication {
+
+}

@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.prepost.PreAuthorize"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.query.Param"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetailsService"/>
+    <fullyQualifiedTypeName name="dio.springsecurity.model.User"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UsernameNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.GrantedAuthority"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.authority.SimpleGrantedAuthority"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetails"/>
+    <fullyQualifiedTypeName name="dio.springsecurity.config.SecurityDatabaseService"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.password.NoOpPasswordEncoder"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="dio.springsecurity.repository.UserRepository"/>
+</qualifiedTypeNameHistroy>

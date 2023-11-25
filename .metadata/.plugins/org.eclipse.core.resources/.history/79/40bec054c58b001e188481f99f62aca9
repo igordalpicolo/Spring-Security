@@ -1,0 +1,5 @@
+package dio.springsecurity.config;
+
+public class SecurityDatabaseService {
+
+}
