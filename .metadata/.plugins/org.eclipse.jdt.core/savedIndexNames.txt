@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\Projetos\autenticacaoComSpring\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3756320992.index
+2783399054.index
+93036098.index

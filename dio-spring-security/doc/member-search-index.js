@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"dio.springsecurity","c":"DioSpringSecurityApplication","l":"DioSpringSecurityApplication()","u":"%3Cinit%3E()"},{"p":"dio.springsecurity","c":"DioSpringSecurityApplication","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
